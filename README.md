@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on with anyone :)
-- 📫 boss@eljen.me
+- 📫 I'm on twitter @eljendotme
 
 <!---
 eljendotme/eljendotme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
